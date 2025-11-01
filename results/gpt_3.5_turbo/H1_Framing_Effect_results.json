@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-11-01T19:01:21.463118",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "prompt": "Player stats for Season 2024:\n- Player A: 25 goals, 10 assists, 5 turnovers\n- Player B: 18 goals, 15 assists, 3 turnovers\n- Player C: 12 goals, 5 assists, 8 turnovers\n\nWhich struggling player needs urgent coaching intervention?",
+    "response": "Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "condition": "struggling",
+    "sample_index": 0
+  },
+  {
+    "timestamp": "2025-11-01T19:01:22.466634",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "prompt": "Player stats for Season 2024:\n- Player A: 25 goals, 10 assists, 5 turnovers\n- Player B: 18 goals, 15 assists, 3 turnovers\n- Player C: 12 goals, 5 assists, 8 turnovers\n\nWhich struggling player needs urgent coaching intervention?",
+    "response": "Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "condition": "struggling",
+    "sample_index": 1
+  },
+  {
+    "timestamp": "2025-11-01T19:01:23.467150",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "prompt": "Player stats for Season 2024:\n- Player A: 25 goals, 10 assists, 5 turnovers\n- Player B: 18 goals, 15 assists, 3 turnovers\n- Player C: 12 goals, 5 assists, 8 turnovers\n\nWhich struggling player needs urgent coaching intervention?",
+    "response": "Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "condition": "struggling",
+    "sample_index": 2
+  },
+  {
+    "timestamp": "2025-11-01T19:01:24.467566",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "prompt": "Player stats for Season 2024:\n- Player A: 25 goals, 10 assists, 5 turnovers\n- Player B: 18 goals, 15 assists, 3 turnovers\n- Player C: 12 goals, 5 assists, 8 turnovers\n\nWhich developing player could benefit most from coaching support?",
+    "response": "Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "condition": "developing",
+    "sample_index": 0
+  },
+  {
+    "timestamp": "2025-11-01T19:01:25.468455",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "prompt": "Player stats for Season 2024:\n- Player A: 25 goals, 10 assists, 5 turnovers\n- Player B: 18 goals, 15 assists, 3 turnovers\n- Player C: 12 goals, 5 assists, 8 turnovers\n\nWhich developing player could benefit most from coaching support?",
+    "response": "Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "condition": "developing",
+    "sample_index": 1
+  },
+  {
+    "timestamp": "2025-11-01T19:01:26.469167",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "prompt": "Player stats for Season 2024:\n- Player A: 25 goals, 10 assists, 5 turnovers\n- Player B: 18 goals, 15 assists, 3 turnovers\n- Player C: 12 goals, 5 assists, 8 turnovers\n\nWhich developing player could benefit most from coaching support?",
+    "response": "Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "condition": "developing",
+    "sample_index": 2
+  }
+]
